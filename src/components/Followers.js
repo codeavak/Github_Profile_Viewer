@@ -19,8 +19,8 @@ const Followers = () => {
               />
               <div>
                 <h4>{login}</h4>
-                <a href={url}>
-                  {url}
+                <a href={`http://www.github.com/${login}`}>
+                {`http://www.github.com/${login}`}
                 </a>
               </div>
             </article>;
