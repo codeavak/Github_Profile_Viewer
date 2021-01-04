@@ -1,3 +1,5 @@
+Live URL: https://heuristic-swirles-ba9746.netlify.app/
+
 - css (global styles, styled components)
 - index.js for easier imports
 
